@@ -17,7 +17,7 @@ The directory is structured as follows:
 
 ```
 Risk_assessment
- |____Statistical Analysis Plan for evaluation of [Mirai risk model] (https://www.science.org/doi/10.1126/scitranslmed.aba4373) 
+ |____Statistical Analysis Plan for evaluation of Mirai risk model(https://www.science.org/doi/10.1126/scitranslmed.aba4373) 
  
   
 Detection
